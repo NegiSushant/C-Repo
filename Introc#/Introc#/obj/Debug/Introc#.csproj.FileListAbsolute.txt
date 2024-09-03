@@ -1,0 +1,7 @@
+D:\c#\Introc#\Introc#\bin\Debug\Introc#.exe.config
+D:\c#\Introc#\Introc#\bin\Debug\Introc#.exe
+D:\c#\Introc#\Introc#\bin\Debug\Introc#.pdb
+D:\c#\Introc#\Introc#\obj\Debug\Introc#.csproj.AssemblyReference.cache
+D:\c#\Introc#\Introc#\obj\Debug\Introc#.csproj.CoreCompileInputs.cache
+D:\c#\Introc#\Introc#\obj\Debug\Introc#.exe
+D:\c#\Introc#\Introc#\obj\Debug\Introc#.pdb

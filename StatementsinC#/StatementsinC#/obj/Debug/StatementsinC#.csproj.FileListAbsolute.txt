@@ -1,0 +1,7 @@
+D:\c#\StatementsinC#\StatementsinC#\bin\Debug\StatementsinC#.exe.config
+D:\c#\StatementsinC#\StatementsinC#\bin\Debug\StatementsinC#.exe
+D:\c#\StatementsinC#\StatementsinC#\bin\Debug\StatementsinC#.pdb
+D:\c#\StatementsinC#\StatementsinC#\obj\Debug\StatementsinC#.csproj.AssemblyReference.cache
+D:\c#\StatementsinC#\StatementsinC#\obj\Debug\StatementsinC#.csproj.CoreCompileInputs.cache
+D:\c#\StatementsinC#\StatementsinC#\obj\Debug\StatementsinC#.exe
+D:\c#\StatementsinC#\StatementsinC#\obj\Debug\StatementsinC#.pdb
