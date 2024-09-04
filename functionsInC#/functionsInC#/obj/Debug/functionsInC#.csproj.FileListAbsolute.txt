@@ -1,0 +1,7 @@
+D:\c#\functionsInC#\functionsInC#\bin\Debug\functionsInC#.exe.config
+D:\c#\functionsInC#\functionsInC#\bin\Debug\functionsInC#.exe
+D:\c#\functionsInC#\functionsInC#\bin\Debug\functionsInC#.pdb
+D:\c#\functionsInC#\functionsInC#\obj\Debug\functionsInC#.csproj.AssemblyReference.cache
+D:\c#\functionsInC#\functionsInC#\obj\Debug\functionsInC#.csproj.CoreCompileInputs.cache
+D:\c#\functionsInC#\functionsInC#\obj\Debug\functionsInC#.exe
+D:\c#\functionsInC#\functionsInC#\obj\Debug\functionsInC#.pdb
