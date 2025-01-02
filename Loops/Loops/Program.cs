@@ -15,7 +15,7 @@ namespace Loops
                 Console.WriteLine(i);
             }
 
-            Console.WriteLine("How many time you want to greet: ");
+            Console.WriteLine("How many time you want to greeting: ");
             int greet = Convert.ToInt32(Console.ReadLine());
 
             for(int i =0; i < greet; i++)
